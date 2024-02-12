@@ -1,0 +1,21 @@
+.glass{
+    border-radius: 14px;
+    box-shadow: 0px 4px 30px #555555;
+    backdrop-filter: blur(2px);
+    background: none;
+    @apply w-full max-w-md  
+}
+
+.textbox{
+    @apply border-0 px-5 py-4 my-4 rounded-xl w-3/4 shadow-sm text-lg bg-slate-200;
+    @apply focus:outline-none;
+}
+
+.btn{
+    @apply border bg-green-400 w-3/4 py-3 rounded-lg text-gray-50 text-xl shadow-sm text-center;
+    @apply focus:outline-none;
+}
+
+.btn:hover{
+    @apply bg-green-600;
+}
