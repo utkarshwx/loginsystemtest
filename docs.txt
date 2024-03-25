@@ -1,0 +1,2 @@
+mongodb+srv://webxthedev:<password>@authpasu.nqsa0fz.mongodb.net/authDB?retryWrites=true&w=majority&appName=authpasu
+mongodb+srv://webxthedev:<password>@authpasu.nqsa0fz.mongodb.net/
